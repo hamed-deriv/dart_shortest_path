@@ -1,5 +1,6 @@
-import 'package:dart_shortest_path/node.dart';
 import 'package:test/test.dart';
+
+import 'package:dart_shortest_path/node.dart';
 
 void main() {
   group('Node test =>', () {
